@@ -14,7 +14,7 @@
 ### Deploy To Heroku
 Before deploy fork this repo and star and change readme.md 
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sunnygupta1234/Rockerz_Musicplayer)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sunnygupta1234/Rockerz_Musicplayers)
 
 ### Deploy in heroku on telegram
 
